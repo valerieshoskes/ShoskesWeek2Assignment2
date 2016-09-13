@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\bin\Debug\ShoskesWeek2Assignment2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\bin\Debug\ShoskesWeek2Assignment2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\bin\Debug\ShoskesWeek2Assignment2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\obj\Debug\ShoskesWeek2Assignment2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\obj\Debug\ShoskesWeek2Assignment2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesWeek2Assignment2\ShoskesWeek2Assignment2\obj\Debug\ShoskesWeek2Assignment2.pdb
